@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FLUTTER Development**
 
-- 💬 Ask me about **antthing**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **mohamed.reda11001@gmail.com**
 
